@@ -25,6 +25,7 @@
     stroke-dashoffset: 103;
     animation: GHUcgnpr_draw 1000ms ease-in-out 0ms forwards;
     animation-delay: 1s;
+    padding-top: 10px;
   }
   
   .GHUcgnpr_2 {
